@@ -1,2 +1,1 @@
-# The-Helix-Kallol-Doctrine
-The Helix Kallol Doctrine Article on Zenodo
+https://doi.org/10.5281/zenodo.16951093
